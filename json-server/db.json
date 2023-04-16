@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "apple",
+            "color": "green",
+            "price": 25,
+            "category": "fruit",
+            "photo": "https://healthjade.com/wp-content/uploads/2017/10/apple-fruit.jpg"
+        },
+        {
+            "id": 2,
+            "name": "pear",
+            "color": "red",
+            "price": 20,
+            "category": "fruit",
+            "photo": "https://static.libertyprim.com/files/familles/poire-large.jpg?1569271830"
+        },
+        {
+            "id": 3,
+            "name": "banana",
+            "color": "yellow",
+            "price": 30,
+            "category": "fruit",
+            "photo": "https://images.heb.com/is/image/HEBGrocery/000377497"
+        },
+        {
+            "id": 4,
+            "name": "melon",
+            "color": "green",
+            "price": 40,
+            "category": "vegetable",
+            "photo": "https://cdn.shopify.com/s/files/1/0288/4747/2700/products/melon-water.jpg?v=1672335856&width=762"
+        }
+    ]
+}
